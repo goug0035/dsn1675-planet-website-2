@@ -56,6 +56,10 @@ body {
   display: block;
 }
 
+.intro {
+  text-align: center;
+}
+
 .masthead {
   overflow: hidden;
   background-color: lightgray;
